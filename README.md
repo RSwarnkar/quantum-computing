@@ -1,7 +1,3 @@
-# quantum-computing-notes
-Quantum Computing Notes
+# Quantum Computing 
+A repo of self-paced learning through exploration. 
 
-
-
-
-What are vectors, spinnors, tensors, phasors ?
