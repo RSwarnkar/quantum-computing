@@ -1,3 +1,13 @@
+### SPECIFIC LARGE PDF FILE: 
+
+
+# Don't commit Copyright PDFs:
+Books\ and\ PDFs/Copyright-Materials/
+
+
+## ---------------------------
+
+
 *.bundle.*
 lib/
 node_modules/
