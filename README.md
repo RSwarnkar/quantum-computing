@@ -1,3 +1,4 @@
 # Quantum Computing 
-A repo of self-paced learning through exploration. 
+Collection of Jupyter Python Notebooks, notes and resources for self-paced learning of Quantum Computing.
+
 
