@@ -1,0 +1,28 @@
+Dear Rajesh Kumar Swarnkar,
+
+We are pleased to inform you that your application for QCourse511-2 has been accepted! In this letter you will find information about getting started with the course. Please read carefully till the end.
+
+1) Installation
+
+We will use Qiskit as the quantum programming language. The set of initial programming exercises QBronze-Qiskit are available via Gitlab.
+
+This video tutorial guides you through the process of setting up your programming environment.
+You can also follow the instructions in this pdf!
+
+If you face any problems during installation, please ask for help in the installation channel on the Discord server.
+
+2) Discord
+
+Please do join our Discord server by using this link (we suggest you install the desktop application): QCourse511-2 Discord Server.
+We will use Discord as the main communication platform for the course. We will use Discord for further communication.
+You will get one additional email regarding joining Canvas - the course LMS.
+
+Please do not use your full name if you do not want it to be visible on any screenshot that might be taken during the course.
+
+3) Schedule
+
+The detailed schedule along with the zoom link will be available on the Discord server. Our first live session of the class via zoom is planned for Monday, 5 September 18:00 (Riga Time)!
+
+Looking forward to a great session and thank you for your time!
+QCourse Staff
+qcourse511@qworld.net
